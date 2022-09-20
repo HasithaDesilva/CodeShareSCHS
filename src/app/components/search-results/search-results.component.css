@@ -1,0 +1,10 @@
+table {
+  text-align: left;
+  max-width: 500px;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+table td:first-child {
+  font-weight: bold;
+}

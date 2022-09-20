@@ -1,0 +1,15 @@
+.submit-form {
+  max-width: 400px;
+  margin: auto;
+}
+
+.actions {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 30px;
+}
+
+button {
+  width: 45%;
+}
